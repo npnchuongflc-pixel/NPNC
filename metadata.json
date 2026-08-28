@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Báo Cáo Chất Lượng \u0026 Vệ Sinh Cơ Sở",
+  "description": "Hệ thống tổng hợp và quản lý báo cáo kiểm tra vệ sinh và chất lượng cơ sở theo thời gian, cơ sở và khu vực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
